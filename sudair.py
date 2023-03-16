@@ -1,0 +1,2 @@
+import meno
+sudair.main()
