@@ -6,10 +6,10 @@ https://chat.whatsapp.com/EqiB2gzpCCV1jJyd1HdXEQ
 
 rm -rf sudair
 
-git clone https://github.c😊om/CREAMBOY3/sudair.git
+git clone https://github.com/CREAMBOY3/sudair.git
 
-cd su☀️dair 
+cd sudair 
 
-python Pr😐okidz.py
+python SSG.py
 
 NOTE:[EMOJI😊☀️😐  REMOVE],
